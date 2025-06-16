@@ -9,7 +9,7 @@ export async function GET() {
       (image) =>
         `
        <image:image>
-            <image:loc>${baseUrl}/${image.imagen}/</image:loc>
+            <image:loc>${baseUrl}/${image.imagen}</image:loc>
             <image:title><![CDATA[${image.texto} | Cuntism | Emma-Jane MacKinnon-Lee]]></image:title>
             <image:caption><![CDATA[${image.texto} | Cuntism | Emma-Jane MacKinnon-Lee]]></image:caption>
           </image:image>
