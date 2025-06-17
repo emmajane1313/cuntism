@@ -16,7 +16,7 @@ Warning: May cause permanent damage to national productivity and innovation.
 Treatment: None available. Just chuck a sickie and she'll be right.
 
 This is my story, and yours too?`,
-  metadataBase: new URL("https://www.cuntism.net"),
+  metadataBase: new URL("https://cuntism.net/"),
   twitter: {
     card: "summary_large_image",
     creator: "@emmajane1313",
