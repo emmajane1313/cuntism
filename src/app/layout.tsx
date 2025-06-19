@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Cuntism",
+  title: "Cuntism by Emma-Jane MacKinnon-Lee",
   description: `Strayan Social Disease: Whinging, Advanced Wankerism, Cuntishness and some good old Terminal Tall Poppy. 
 
 Fuck me dead, let it rip. The mastered art of being a deadset cunt. Passed down through generations of bitter bastards.
@@ -20,12 +20,12 @@ This is my story, and yours too?`,
   twitter: {
     card: "summary_large_image",
     creator: "@emmajane1313",
-    title: "Cuntism",
+    title: "Cuntism  by Emma-Jane MacKinnon-Lee",
     description:
       "Strayan Social Disease: Whinging, Advanced Wankerism, Cuntishness and some good old Terminal Tall Poppy.",
   },
   openGraph: {
-    title: "Cuntism",
+    title: "Cuntism  by Emma-Jane MacKinnon-Lee",
     description:
       "Strayan Social Disease: Whinging, Advanced Wankerism, Cuntishness and some good old Terminal Tall Poppy.",
   },
