@@ -13,3 +13,5 @@ Warning: May cause permanent damage to national productivity and innovation.
 Treatment: None available. Just chuck a sickie and she'll be right.
 
 This is my story, and yours too?
+
+by Emma-Jane MacKinnon-Lee
